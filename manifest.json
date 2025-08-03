@@ -1,0 +1,43 @@
+{
+  "sets": [
+    {
+      "name": "Unit 1",
+      "s_file": "herewego3/u1/u1-s.tsv",
+      "t_file": "herewego3/u1/u1-w.tsv",
+      "g_file": "herewego3/u1/u1-i.tsv"
+    },
+    {
+      "name": "Unit 2",
+      "s_file": "herewego3/u2/u2-s.tsv",
+      "t_file": "herewego3/u2/u2-w.tsv",
+      "g_file": "herewego3/u2/u2-i.tsv"
+    },
+    {
+      "name": "Unit 3",
+      "s_file": "herewego3/u3/u3-s.tsv",
+      "t_file": "herewego3/u3/u3-w.tsv",
+      "g_file": "herewego3/u3/u3-i.tsv"
+    },
+    {
+      "name": "Unit 3A",
+      "s_file": "herewego3/u3A/u3A-s.tsv",
+      "t_file": "herewego3/u3A/u3A-w.tsv",
+      "g_file": "herewego3/u3A/u3A-i.tsv"
+    },
+    {
+      "name": "Unit 4",
+      "s_file": "herewego3/u4/u4-s.tsv",
+      "t_file": "herewego3/u4/u4-w.tsv",
+      "g_file": "herewego3/u4/u4-i.tsv"
+    },
+    {
+      "name": "Unit 4A",
+      "s_file": "herewego3/u4A/u4A-s.tsv",
+      "t_file": "herewego3/u4A/u4A-w.tsv",
+      "g_file": "herewego3/u4A/u4A-i.tsv"
+    }
+  ],
+  "single_files": [
+    "herewego3/ei3_tb_1-4sentence.tsv"
+  ]
+}
